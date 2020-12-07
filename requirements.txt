@@ -1,0 +1,8 @@
+pathlib
+numpy
+scipy
+pandas
+mlxtend
+ipython
+notebook
+
